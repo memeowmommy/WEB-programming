@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "krotik",
+  "private_key_id": "1d67b6fd22d11f0758e3255f5e98e4a54c978dee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC7aAg0whWZjDnq\n2PFp3Qzgflpw2uv6eOB22JKnTEkm7PLbYluPv2XRyCwht0EaIVnIhMgk5cevoOtW\nVFgqnkHJHcaDuwUM2M0ynv4wBtorDiMZC9Y3/e2WJ165r0R519HaCzsu1ToBJGtx\nA/XGDAPBwQ4L154LB0jBmxl8R1NtKtYy9rO0OspwAgciqlIdW/m/1ye3PeTlC0UE\noNqOmwuI7mh/gfPujCGb9p17StYThZ94Mtxqw3qaYLw59TaD7jQQgTPVVpgkn7Bp\na1o+vhjVI6fJbFeUAGdX+5v1K747ZktI6MpGswFYw4ryvxK+2OPyH6y5O57KRz4s\n+GrTUvV7AgMBAAECggEAEkECV501/GRPuePSs/SPjghQp+BzDs0aVAkpU7lXAL8g\nsqTEdV53vPTJ86jFYxWviJwCYLGu/xjmA10oz1Hl54CKdwdO6R7u8cjRynzIYFw6\np/Ris8Z8j10bWWvMeC/A5YOlipzDTxwsiPARTu6ZqRQ0WYvxfXKCsDT6yQOriRzx\nujq7kQd3OHfnbr4gP5d+L1mV0P5+4lH/1DOu539hqScDTTROGQ0jYceKEAYtQ3oo\nrV8unvLVrPjecn6yvW0Kg5tAt4l72sNKiLWpuk1xGdH4ps6go1OU8tMteUmeyI2e\nOMoVeqBMXaxCJ4REo2GgAYqwCtKy6DaQvwPsXrr3bQKBgQDt9J9O4sJ/VE2nQYdT\noVxbExZOyJfBZQCNwIJwp1J2BDJ4WxUUQIbvnoetlLhLBa+D0Gb9vROehOSc0vYW\nHbybiZKkFaJZ6RNxuvyCA0w3OfPmghUDsMVtwUTHjIb1YRLk65QFKNasgqkWanug\nRpihlHvOhqAjA4YhCRUY4rg1lwKBgQDJnhwhEreBoaUZXy3nDiVJLkGh/MXdhvG+\n24x5Iq9sQDDC1jgqcDECyqVDdBuVwWcD8/+af1lpb6KvcGpA26AQISioion6fPNb\n20fd3jzeU8eRSKdBhakMOHIzakOceLKxzYITeGIJUqOyKQA/aYChNCAVuGw2YYjU\nkeKAp3ZjvQKBgCxNwWOEoMXoQlUDxFhz0Kg8U4jznB2r2oCJ+T9UR+wlN+hkvPX6\nVaVDlOtipzWAp38ZTDOuAnsfLxlrxdm0S6uB38WhKYsn9DDWqbDjQEuABMNEMPlw\n7jFTLKUiqvYAzu3EVtjnE6Em6qh7xuy+eCiNZse7FRGv1EdOU5lAjR+dAoGATr2E\nKNqBdowlyYnliHZ602DQWy44LHM2WJ6v9uM39aQAJye4mcJlMbzo3DYtS8hTrjSN\n383aopXpyHCz3o6nrYT1txUcHArOlFJId/sCdKXtq+ze/XTw94fX+gKHU0XELDKh\nmW8Lgq6Wpc7jfOB8TvjnivQStw5SfQpYlnxQfVUCgYBZiEPP1D22zKZRga8tqlBo\nB7ZxaD2q8pGvMrLfD+c6jdLx29AMF5fOHivBfgDDqMCECVHxnfoQekkAdMAbWxau\nvBQ02QIhf1NX9bKmRHyTNPhvUAvd+CfjkWDZelI5s/vBUKY6TnX2I8vKWCZin90a\nZHjQHZjri84b6xX8+GKyHQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "krotik-783@krotik.iam.gserviceaccount.com",
+  "client_id": "110652887292955370128",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/krotik-783%40krotik.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
